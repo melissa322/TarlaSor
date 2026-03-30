@@ -30,7 +30,7 @@ Teknik terim yok. Sensör gerekmez. Kağıt zorunluluğu yok. Sadece telefon yet
 | KETOS | Su kalitesi izleme | Kurumsal, pahalı donanım gerektirir |
 | SQAPP | Harita tabanlı toprak analizi | Konum bazlı, kullanıcı girişi yok |
 
-**Farkımız:** Hiçbir rakip Türkçe olarak hem belirti anlatımını hem fotoğrafı hem de lab sonucunu birleştirip sade bir eylem önerisi sunmuyor. TarlaSor'da donanım, abonelik veya teknik bilgi gerekmez — çiftçi ne biliyorsa onu anlatır, AI geri kalanını yapar.
+**Farkımız:** Hiçbir rakip Türkçe olarak hem belirti anlatımını  Hem de lab sonucunu birleştirip sade bir eylem önerisi sunmuyor. TarlaSor'da donanım, abonelik veya teknik bilgi gerekmez — çiftçi ne biliyorsa onu anlatır, AI geri kalanını yapar.
 
 ## Başarı Kriteri
 
