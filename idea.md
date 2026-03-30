@@ -34,4 +34,4 @@ Teknik terim yok. Sensör gerekmez. Kağıt zorunluluğu yok. Sadece telefon yet
 
 ## Başarı Kriteri
 
-Türkiye'deki bir çiftçi, tarlasında gördüğü sorunu telefona anlatarak veya fotoğraf çekerek 1 dakika içinde "büyük ihtimalle şu problem var, şunu yap" cevabını alabiliyorsa proje başarılıdır.
+Türkiye'deki bir çiftçi, tarlasında gördüğü sorunu telefona anlatarak 1 dakika içinde "büyük ihtimalle şu problem var, şunu yap" cevabını alabiliyorsa proje başarılıdır.
